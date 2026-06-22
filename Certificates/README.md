@@ -10,3 +10,4 @@
 - IBM SkillsBuild LLM Badge
 - GenAI	Powered	Data	Analytics	Job	Simulation(Forage)
 - Software	Engineering	Job	Simulation(Forage)
+- Introduction to Data Science-infosys
