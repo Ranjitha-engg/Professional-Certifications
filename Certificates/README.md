@@ -8,3 +8,4 @@
 - Critical Thinking in the AI Era – HP LIFE
 - Cybersecurity Bootcamp – Anna University
 - IBM SkillsBuild LLM Badge
+- GenAI	Powered	Data	Analytics	Job	Simulation
